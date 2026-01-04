@@ -1,8 +1,6 @@
-Here is the **Official Walkthrough** with the sensitive discovery data redacted. This allows students to read the guide to understand the _methodology_ without having the specific answers (directories, passwords, flags) spoiled for them.
-
 ### Official Walkthrough: NexusHR Black Box Breach
 
-Lab Difficulty: Medium
+Lab Difficulty: Easy
 
 Objective: Breach the NexusHR internal portal, gain initial access without provided credentials, and escalate privileges to retrieve the CEO's confidential data.
 
